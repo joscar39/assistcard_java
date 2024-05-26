@@ -1,0 +1,38 @@
+# archivos generales
+.DS_Store
+*.log
+*.class
+
+# archivos de configuración
+/target/
+/.idea/
+/.classpath
+/.project
+/.settings/
+/nbproject/
+target/
+
+# archivos de compilación de Maven
+/bin/
+/build/
+/release/
+/*.jar
+
+# archivos de dependencias de Maven
+/.m2/
+
+# archivos de informes de pruebas
+/test-output/
+
+# archivos temporales
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea
+
+# archivos de configuración local
+*.xml
+*.config
+*.conf
+
